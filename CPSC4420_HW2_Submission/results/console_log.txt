@@ -1,0 +1,11 @@
+baseline last100: -23.22 evaluation: {'mean_reward': -13.0, 'std_reward': 0.0, 'success_rate': 1.0, 'mean_steps': 13.0}
+alpha_0.1 last100: -27.39 evaluation: {'mean_reward': -13.0, 'std_reward': 0.0, 'success_rate': 1.0, 'mean_steps': 13.0}
+alpha_0.5 last100: -23.22 evaluation: {'mean_reward': -13.0, 'std_reward': 0.0, 'success_rate': 1.0, 'mean_steps': 13.0}
+alpha_0.9 last100: -26.34 evaluation: {'mean_reward': -13.0, 'std_reward': 0.0, 'success_rate': 1.0, 'mean_steps': 13.0}
+gamma_0.5 last100: -23.19 evaluation: {'mean_reward': -13.0, 'std_reward': 0.0, 'success_rate': 1.0, 'mean_steps': 13.0}
+gamma_0.9 last100: -23.22 evaluation: {'mean_reward': -13.0, 'std_reward': 0.0, 'success_rate': 1.0, 'mean_steps': 13.0}
+gamma_0.99 last100: -23.22 evaluation: {'mean_reward': -13.0, 'std_reward': 0.0, 'success_rate': 1.0, 'mean_steps': 13.0}
+decay_0.99 last100: -25.39 evaluation: {'mean_reward': -13.0, 'std_reward': 0.0, 'success_rate': 1.0, 'mean_steps': 13.0}
+decay_0.997 last100: -23.22 evaluation: {'mean_reward': -13.0, 'std_reward': 0.0, 'success_rate': 1.0, 'mean_steps': 13.0}
+decay_0.999 last100: -34.73 evaluation: {'mean_reward': -13.0, 'std_reward': 0.0, 'success_rate': 1.0, 'mean_steps': 13.0}
+BEST baseline SOURCE Local faithful CliffWalking rules (Gymnasium not installed) VIDEO STEPS 13
